@@ -26,6 +26,7 @@ public class CheckersGameNotPOO {
     public void go(){
         System.out.println("invocation de la fonction go()");
         JFrame frame = new JFrame();
+        
     }
     
 }
